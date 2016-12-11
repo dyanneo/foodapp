@@ -175,4 +175,18 @@ https://api.nutritionix.com/v1_1/search/gouda%20cheese?fields=item_name%2Citem_i
 }
 
 # steps taken
-* Added JSON viewer browser extension to chrome
+## browser
+* Added JSON viewer browser extension to chrome  
+
+## aws
+* logged in as my amazon account
+* created dybox1
+* added security group for http/ssh in; all out
+* installed git:  `sudo yum install git`  
+* downloaded key
+
+## putty
+* created putty profile dybox1
+* used puttygen.exe to convert dybox1.pem to dybox1.ppk and added to profile dybox1
+
+
